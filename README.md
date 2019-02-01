@@ -1,2 +1,2 @@
-# pingpong
-This is a Ping Pong game created using HTML5 canvas and JavaScript
+# Game
+This repo contains all the games I created using HTML5 canvas and JavaScript API
